@@ -3,6 +3,8 @@
 
 Repository for the CS330 project at SJU
 
-Yay!!!!!!! Senai is awesome!
-
-Matt is the most awesome.
+Team Roles:
+Project Leader: Matthew Scherber
+Project Data Specialist: Kevin Horton
+Project Programming Specialist: Senai Mesfin
+Project Requirements and Artifacts Specialist: Bernard Ferguson
